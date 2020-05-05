@@ -4,7 +4,8 @@ This is a Full RESTful API for a fictif company called Natour.This API allows Us
 
 ### `Technologies`
 
-this is the list of the technologies i used to build this API:
+\*this is the list of the technologies i used to build this API:
+
 -Nodejs
 -Epress
 -Jwt
